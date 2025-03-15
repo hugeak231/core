@@ -71,7 +71,7 @@ test-output.xml
 pytest-*.txt
 junit.xml
 
-# Translations
+# Translations TranslationsTranslations
 *.mo
 
 # Mr Developer
